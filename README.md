@@ -9,7 +9,7 @@
   paramorphisms and hylomorphisms, requiring very little prior knowledge.
 - [An Introduction to Recursion Schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) -
   A three-part series in wich you discover recursion schemes from scratch and
-  implement a small subset of @ekmett's library.
+  implement a small subset of Edward Kmett's library.
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
   catamorphisms.
@@ -22,6 +22,8 @@
   
 ## Papers
 
+- [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.](http://maartenfokkinga.github.io/utwente/mmf91m.pdf) -
+  The original paper most of this is based on.
 - [A Duality of Sorts, 2013, Hinze et al.](http://www.cs.ox.ac.uk/ralf.hinze/publications/Sorting.pdf) -
   Shows that many basic sorting algorithms exist as a pair, and that these pairs
   arise naturally out of the duality between folds and unfolds.
