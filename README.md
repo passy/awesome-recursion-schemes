@@ -30,6 +30,8 @@
 - [Sorting with Bialgebras and Distributive Laws, 2012, Hinze et al.](http://www.cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf) -
   Shows how paramorphisms and apomorphisms can be used for more efficient
   implementations of sorting algorithms.
+- [Scrap your boilerplate: a practical design pattern for generic programming, 2003, SPJ et al.](http://research.microsoft.com/en-us/um/people/simonpj/Papers/hmap/hmap.ps) -
+  Design pattern for writing programs that traverse data structures built from rich mutually-recursive data types
 
 ## Presentations
 
