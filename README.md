@@ -8,7 +8,7 @@
   An introduction to pattern functors, fix points, anamorphisms, catamorphisms,
   paramorphisms and hylomorphisms, requiring very little prior knowledge.
 - [An Introduction to Recursion Schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) -
-  A three-part series in wich you discover recursion schemes from scratch and
+  A three-part series in which you discover recursion schemes from scratch and
   implement a small subset of Edward Kmett's library.
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
