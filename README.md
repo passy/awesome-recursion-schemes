@@ -16,6 +16,8 @@
   
 ## Articles
 
+- [Recursion Schemes: A Field Guide (Redux)](http://comonad.com/reader/2009/recursion-schemes/) -
+  List of various recursion schemes with code samples.
 - [Catamorphisms](https://wiki.haskell.org/Catamorphisms) - Definition on the Haskell Wiki.
 - [Catamorphisms](https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms) -
   Short definition with code on School of Haskell by Edward Kmett.
