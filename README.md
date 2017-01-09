@@ -49,6 +49,13 @@
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
 
+## Podcasts
+
+- [Magic Read Along](http://www.magicreadalong.com/) - Casual discussions about
+  category theory that often bring up recursion schemes, including [episode
+  33](http://www.magicreadalong.com/episode/33) which talks about Histomorphisms
+  and Futumorphisms.
+
 ## Implementations
 
 - [recursion-schemes](https://github.com/ekmett/recursion-schemes/) for
