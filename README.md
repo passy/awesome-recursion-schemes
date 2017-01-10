@@ -21,6 +21,7 @@
 - [Catamorphisms](https://wiki.haskell.org/Catamorphisms) - Definition on the Haskell Wiki.
 - [Catamorphisms](https://www.schoolofhaskell.com/user/edwardk/recursion-schemes/catamorphisms) -
   Short definition with code on School of Haskell by Edward Kmett.
+- [Rotating Squares](https://jtobin.io/rotating-squares) - Using a hylomorphism to rotate a quadtree by Jared Tobin.
   
 ## Papers
 
