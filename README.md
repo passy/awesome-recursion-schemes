@@ -49,6 +49,7 @@
   Presented by Anthony Burzillo at the NYC Haskell User's Group.
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
+- [resion-scheme-talk](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
 
 ## Podcasts
 
