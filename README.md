@@ -64,12 +64,11 @@
 ## Implementations
 
 - [recursion-schemes](https://github.com/ekmett/recursion-schemes/) for
-  Haskell. - The canonical implementation by Edward Kmett.
-- [Matryoshka](https://github.com/slamdata/matryoshka) -
-  Generalized folds, unfolds, and traversals for fixed point data structures in
-  Scala.
-- [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) -
-  A work-in-process port of matryoshka for PureScript.
+  Haskell - The canonical implementation by Edward Kmett.
+- [Matryoshka](https://github.com/slamdata/matryoshka) for Scala -
+  Generalized folds, unfolds, and traversals for fixed point data structures.
+- [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript - 
+  A work-in-process port of matryoshka.
 
 ## License
 
