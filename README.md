@@ -23,6 +23,7 @@
   Short definition with code on School of Haskell by Edward Kmett.
 - [Rotating Squares](https://jtobin.io/rotating-squares) - Using a hylomorphism to rotate a quadtree by Jared Tobin.
 - [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post) - Pratical examples of pre- and postpromorphisms by Jared Tobin.
+- [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) - Exploring histo and futu by example by Jared Tobin.
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
   
 ## Papers
