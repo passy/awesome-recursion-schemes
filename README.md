@@ -1,19 +1,32 @@
-# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/passy/awesome-recursion-schemes.svg?branch=master)](https://travis-ci.org/passy/awesome-recursion-schemes)
+# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curation of useful resources for learning about and using recursion schemes.
+
+[Recursion schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
+
+
+## Contents
+
+- [Introductions](#introductions)
+- [Articles](#articles)
+- [Papers](#papers)
+- [Presentations](#presentations)
+- [Podcasts](#podcasts)
+- [Implementations](#implementations)
+
 
 ## Introductions
 
 - [Practical Recursion Schemes](https://jtobin.io/practical-recursion-schemes) -
-  An introduction to pattern functors, fix points, anamorphisms, catamorphisms,
+  Introduction to pattern functors, fix points, anamorphisms, catamorphisms,
   paramorphisms and hylomorphisms, requiring very little prior knowledge.
 - [An Introduction to Recursion Schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) -
-  A three-part series in which you discover recursion schemes from scratch and
+  Three-part series in which you discover recursion schemes from scratch and
   implement a small subset of Edward Kmett's library.
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
   catamorphisms.
-  
+
 ## Articles
 
 - [Recursion Schemes: A Field Guide (Redux)](http://comonad.com/reader/2009/recursion-schemes/) -
@@ -26,7 +39,7 @@
 - [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) - Exploring histo and futu by example by Jared Tobin.
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
 - [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
-  
+
 ## Papers
 
 - [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.](http://maartenfokkinga.github.io/utwente/mmf91m.pdf) -
@@ -38,7 +51,7 @@
   Shows how paramorphisms and apomorphisms can be used for more efficient
   implementations of sorting algorithms.
 - [Scrap your boilerplate: a practical design pattern for generic programming, 2003, SPJ et al.](http://research.microsoft.com/en-us/um/people/simonpj/Papers/hmap/hmap.ps) -
-  Design pattern for writing programs that traverse data structures built from rich mutually-recursive data types
+  Design pattern for writing programs that traverse data structures built from rich mutually-recursive data types.
 
 ## Presentations
 
@@ -71,8 +84,8 @@
   Haskell - The canonical implementation by Edward Kmett.
 - [Matryoshka](https://github.com/slamdata/matryoshka) for Scala -
   Generalized folds, unfolds, and traversals for fixed point data structures.
-- [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript - 
-  A work-in-process port of matryoshka.
+- [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
+  Work-in-process port of matryoshka.
 
 ## License
 
