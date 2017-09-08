@@ -2,7 +2,7 @@
 
 > A curation of useful resources for learning about and using recursion schemes.
 
-[Recursion schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
+Recursion schemes are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
 
 
 ## Contents
