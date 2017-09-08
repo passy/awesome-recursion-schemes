@@ -26,6 +26,9 @@
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
   catamorphisms.
+- [Recursion Schemes in JavaScript and Flow](https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7) -
+  Series introducing recursion schemes and related concepts in JavaScript,
+  aimed at developers with a minimal functional programming background.
 
 ## Articles
 
