@@ -89,6 +89,8 @@ Recursion schemes are simple, composable combinators, that automate the process 
   Generalized folds, unfolds, and traversals for fixed point data structures.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
+- [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
+  Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
 
 ## License
 
