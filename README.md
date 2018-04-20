@@ -94,7 +94,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
   Work-in-process port of matryoshka.
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
   Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
-- [Kategory-recursion](https://github.com/kategory/kategory/tree/master/kategory-recursion) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
+- [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 
 ## License
 
