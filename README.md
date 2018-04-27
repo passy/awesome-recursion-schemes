@@ -76,6 +76,10 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 - [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
 
+## Cheat Sheets
+
+- [The Hitchhiker's Guide to Morphisms](http://b-studios.de/blog/2016/02/21/the-hitchhikers-guide-to-morphisms/) - Overview of different morphisms including a printable PDF.
+
 ## Podcasts
 
 - [Magic Read Along](http://www.magicreadalong.com/) - Casual discussions about
