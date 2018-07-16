@@ -97,6 +97,8 @@ Recursion schemes are simple, composable combinators, that automate the process 
   Idris, based off Edward Kmett's Haskell library.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
+- [recursion](https://github.com/vmchale/recursion) for ATS - Demonstration of
+  recursion schemes in ATS.
 - [dada](https://github.com/sellout/dada) for Dhall - a library for recursion
   schemes in Dhall.
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
