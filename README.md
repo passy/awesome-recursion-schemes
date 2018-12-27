@@ -79,7 +79,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Cheat Sheets
 
-- [The Hitchhiker's Guide to Morphisms](http://b-studios.de/blog/2016/02/21/the-hitchhikers-guide-to-morphisms/) - Overview of different morphisms including a printable PDF.
+- [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
 ## Podcasts
 
