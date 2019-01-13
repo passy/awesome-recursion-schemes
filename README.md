@@ -45,6 +45,13 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
 - [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 
+### Hylomorphisms in the Wild
+
+Articles by Bartosz Milewski about solving small, practical problems by applying a hylomorphism.
+
+- [Stalking a Hylomorphism in the Wild](https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/) - Advent of Code 2017, Domino challenge
+- [Open Seasons on Hylomorphisms](https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/) - Advent of Code 2018, String comparison challenge
+
 ## Papers
 
 - [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire, 1991, Meijer et al.](http://maartenfokkinga.github.io/utwente/mmf91m.pdf) -
