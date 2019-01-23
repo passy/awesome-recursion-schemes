@@ -99,8 +99,10 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 
 - [recursion-schemes](https://github.com/ekmett/recursion-schemes/) for
   Haskell - The canonical implementation by Edward Kmett.
-- [Matryoshka](https://github.com/slamdata/matryoshka) for Scala -
+- [Matryoshka](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
   Generalized folds, unfolds, and traversals for fixed point data structures.
+- [andyscott/droste](https://github.com/andyscott/droste) for Scala using Cats -
+  Generalized folds, unfolds, and traversals for fixed point data structures.    
 - [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) for
   Idris, based off Edward Kmett's Haskell library.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
