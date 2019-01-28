@@ -17,6 +17,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Introductions
 
+- [Awesome Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 - [Practical Recursion Schemes](https://jtobin.io/practical-recursion-schemes) -
   Introduction to pattern functors, fix points, anamorphisms, catamorphisms,
   paramorphisms and hylomorphisms, requiring very little prior knowledge.
