@@ -95,6 +95,10 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
   category theory that often bring up recursion schemes, including [episode
   33](http://www.magicreadalong.com/episode/33) which talks about Histomorphisms
   and Futumorphisms.
+- [Scala Love](https://scala.love/) - Podcast about Scala that brings up
+  recursion schemes in [the second episode](https://scala.love/happy-valentin/).
+- [The Haskell Cast](https://www.haskellcast.com/) - Recursion schemes come up in
+  [Episode 13 with John Wiegley](https://www.haskellcast.com/episode/013-john-wiegley-on-categories-and-compilers).
 
 ## Implementations
 
@@ -103,7 +107,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 - [Matryoshka](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
   Generalized folds, unfolds, and traversals for fixed point data structures.
 - [andyscott/droste](https://github.com/andyscott/droste) for Scala using Cats -
-  Generalized folds, unfolds, and traversals for fixed point data structures.    
+  Generalized folds, unfolds, and traversals for fixed point data structures.
 - [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) for
   Idris, based off Edward Kmett's Haskell library.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
