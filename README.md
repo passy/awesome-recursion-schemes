@@ -11,6 +11,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Articles](#articles)
 - [Papers](#papers)
 - [Presentations](#presentations)
+- [Cheat Sheets](#cheat-sheets)
 - [Podcasts](#podcasts)
 - [Implementations](#implementations)
 
