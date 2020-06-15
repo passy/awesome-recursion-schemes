@@ -47,6 +47,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
 - [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 - [Recursion Schemes in Scala](https://free.cofree.io/2017/11/13/recursion/) - Introduces the fixpoint combinator, anamorphism, catamorphism, hylomorphism, paramorphism, apomorphism, histomorphism, dynamorphism and futumorphism.
+- [What's in a Fold: The Basic Catamorphism in recursion-schemes](https://duplode.github.io/posts/whats-in-a-fold.html) - Introduces catamorphism as a generalization of fold.
 
 ### Hylomorphisms in the Wild
 
