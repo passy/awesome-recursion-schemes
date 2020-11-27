@@ -122,6 +122,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
   Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
+- [Recursion Schemes in Java](https://github.com/luochen1990/java-recursion-schemes) an java implementation of recursion schemes based on reflection.
 
 ## License
 
