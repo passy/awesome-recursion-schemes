@@ -48,6 +48,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 - [Recursion Schemes in Scala](https://free.cofree.io/2017/11/13/recursion/) - Introduces the fixpoint combinator, anamorphism, catamorphism, hylomorphism, paramorphism, apomorphism, histomorphism, dynamorphism and futumorphism.
 - [What's in a Fold: The Basic Catamorphism in recursion-schemes](https://duplode.github.io/posts/whats-in-a-fold.html) - Introduces catamorphism as a generalization of fold.
+- [Combining folds using semigroups](https://luctielen.com/posts/combining_folds_using_semigroups/) - Uses semigroups to combine many recursion schemes folds into one.
 
 ### Hylomorphisms in the Wild
 
