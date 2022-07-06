@@ -76,6 +76,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
   concise definitions as well as practical examples of many recursion schemes.
 - [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8) -
   12 min presentation by Ralf Hinze, Nicolas Wu, and Jeremy Gibbons.
+- [Fantastic Morphisms and Where to Find Them: A Guide to Recursion Schemes](https://arxiv.org/abs/2202.13633)
 - [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU) -
   Presented by Tim Williams at the London Haskell meetup.
 - [F-algebras or: How I Learned to Stop Worrying and Love the Type System](https://www.youtube.com/watch?v=PK4SOaAGVfg) -
