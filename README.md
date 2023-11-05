@@ -107,6 +107,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 
 - [recursion-schemes](https://github.com/ekmett/recursion-schemes/) for
   Haskell - The canonical implementation by Edward Kmett.
+  [yaya](https://github.com/sellout/yaya) for Haskell - implementation that closer follows the scientific papers and code design improved comparably to `recursion-schemes`, which was the first library.
 - [Matryoshka](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
   Generalized folds, unfolds, and traversals for fixed point data structures.
 - [andyscott/droste](https://github.com/andyscott/droste) for Scala using Cats -
